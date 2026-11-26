@@ -1,0 +1,26 @@
+# الأساسيات
+numpy
+pandas
+pillow
+matplotlib
+seaborn
+tqdm
+joblib
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+ploty
+nbformat
+
+
+# torch
+# torchvision
+
+
+kagglehub      
+scikit-image     
+timm            
+opencv-python    
+jupyter          
