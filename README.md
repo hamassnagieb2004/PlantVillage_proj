@@ -1,6 +1,7 @@
 # PlantVillage Leaf Disease Classification
 
 A comparative image-classification project using **classical machine learning (ML)** and **deep learning (DL)** on the PlantVillage leaf-disease dataset.
+<img width="1764" height="2169" alt="classical_ml_pipeline" src="https://github.com/user-attachments/assets/8d30089f-e31b-49ca-87f8-e61cdea5d57b" />
 
 The project is organized into two notebooks:
 - `plantvillage_pipeline_colab_more_embedding (3).ipynb` — data preparation, image embeddings, classical ML experiments, model selection, Optuna tuning, final ML evaluation, and export of the shared image splits.
